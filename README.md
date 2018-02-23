@@ -67,6 +67,13 @@ I believe that the only way to learn is being ready to learn, take a lot of resp
 
 My current employer ([VerbIT.ai](https://verbit.ai/)) doesn't plan to use any of the above tools (though I hope to integrate `yard-junk` in our CI somewhere in future, but as an in-house volunteer effort). So, it is **not** a call to "do for free the work I am paid for".
 
+### What it is not
+
+* It is not a grant program (for your work, I'll give you nothing... except for my time, attention and skill as a mentor)
+* It is not a direct opportunity to find a work (I am not representing anybody except myself, and my current employer is pretty small company, so no, I am not "selecting the bests to hire them")
+* It is not an official internship (I can't fill any papers for your university)
+* It is not a scam (I swear)
+
 ## Interested?
 
 Start by exploring [projects](Projects.md) and discussing them in issues of this GitHub repo!
