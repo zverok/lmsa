@@ -13,7 +13,7 @@ In a process, you'll have a practical experience of writing good code, structuri
 
 ## Projects
 
-**Projects are described by [GitHub issues]() of this repository.**
+**Projects are described by [GitHub issues](https://github.com/zverok/lmsa/issues) of this repository.**
 
 **Note**: The project list is **not** a "collaborative pool of ideas", it is a list of projects I personally feel to be involved in.
 
@@ -76,7 +76,7 @@ My current employer ([VerbIT.ai](https://verbit.ai/)) doesn't plan to use any of
 
 ## Interested?
 
-Start by exploring [projects](Projects.md) and discussing them in issues of this GitHub repo!
+Start by exploring and discussing [project issues](https://github.com/zverok/lmsa/issues)!
 
 ## Contacts
 
