@@ -60,7 +60,7 @@ I believe that the only way to learn is being ready to learn, take a lot of resp
 
 * For already existing projects, the work continues in their GitHub repos, you are listed in "Authors" section after the very first non-trivial PR, and listed in it as close to top as your contribution allows (including "main author/maintainer"); I'll add you as a repo collaborator after the several PRs and established rhythm of collaboration, and never drop from collaborators after this (unless some serious misbehavior).
 * For future project, I require them to be done in [molybdenum-99](https://github.com/molybdenum-99) GitHub organization; you'll be project's collaborator and listed as its primary author from the very beginning, I give credit as "initial idea and mentorship" (or whatever it would be in future);
-  * The only exception is "ruby-docs" project, I suggest it be created in separate GitHub org;
+  * The exceptions are projects [labelled "site"](https://github.com/zverok/lmsa/issues?q=is%3Aopen+is%3Aissue+label%3Asite), they should go to separate GitHub orgs to have separate GitHub Pages sites;
 * My initial "idea ownership" and authority for projects evolution's "big picture" is preserved **forever** (but nobody can stop you from forking project and make a turn in its development on your own if our visions will seriously diverge).
 
 ### Notice on conflict of interests
