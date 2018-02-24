@@ -1,21 +1,21 @@
 # Let's Make Something Awesome?
 
-This repository is a list of **Ruby projects** I ([Victor Shepelev aka @zverok](https://zverok.github.io)) am willing to **mentor**, and invite anybody willing to be mentored and create usable opensource project in process.
+This repository is a list of **Ruby projects** I ([Victor Shepelev aka @zverok](https://zverok.github.io)) am willing to **mentor**, and invite anybody willing to be mentored and create a usable opensource project in process.
 
 You will:
 
-* work on one of projects, started or invented by me,
+* work on one of the projects started or invented by me,
 * following the plan we'll make together,
 * through GitHub issues and PRs,
 * with extensive and regular code reviews, advice and hints.
 
-In a process, you'll have a practical experience of writing good code, structuring it, optimizing, testing and documenting, as well as an overall experience of real-world gem development participation — and something to add to your CV as a project you've created, maintained or participated in.
+In a process, you'll have practical experience of writing good code, structuring it, optimizing, testing and documenting, as well as an overall experience of real-world gem development participation — and something to add to your CV as a project you've created, maintained or participated in.
 
 ## Projects
 
 **Projects are described by [GitHub issues](https://github.com/zverok/lmsa/issues) of this repository.**
 
-**Note**: The project list is **not** a "collaborative pool of ideas", it is a list of projects I personally feel to be involved in.
+**Note**: The project list is **not** a "collaborative pool of ideas," it is a list of projects I feel to be involved in.
 
 ## Me
 
@@ -44,7 +44,7 @@ I believe that the only way to learn is being ready to learn, take a lot of resp
 
 ### How our interaction will look
 
-* You apply to some of the projects (by writing to corresponding issue in this GitHub repository), and we discuss the project, your vision of it and your expectation of mentorship for some time;
+* You apply to some of the projects (by writing to the corresponding issue in this GitHub repository), and we discuss the project, your vision of it and your expectation of mentorship for some time;
   * **Note**: for an already started project, you don't need to apply through issues, you can start immediately from GitHub PR!
 * We start (or continue) to work on project, communicating mostly through GitHub issues and PRs, and (for bigger vision) through email or Gitter (my contacts are at the bottom of this README);
 * I provide you with extensive PR reviews, discussion of further steps, new GitHub issues, coding advice and so on;
@@ -52,15 +52,16 @@ I believe that the only way to learn is being ready to learn, take a lot of resp
 
 ### On multiple mentees
 
-* I am willing to accept as many mentees as would be willing to join, I have a lot of experience on multitask mentoring.
-* If there are several people starting to work on the same project, it should work as a regular OSS collaboration: the more visible you presence is (communication in Gitter, project issues and so on), the more probable that everything will work well. But just because you said "OK, I'll do something in a few weeks" 3 monthes ago, the project is not "booked" by you exclusively.
-* Conflicts happen. Please don't be agitated if there are two competing pull requests in the same project, implementing the same feature, and yours is not the one "winning". It is not about winning, it is about understanding the things and trying to do the best.
+* I am willing to accept as many mentees as there would be joining, I have a lot of experience on multitasking while mentoring.
+* If several people are starting to work on the same project, it should work as a regular OSS collaboration: the more visible you presence is (communication in Gitter, project issues and so on), the more probable that everything will work well. But just because you said "OK, I'll do something in a few weeks" 3 months ago, the project is not "booked" by you exclusively.
+* Conflicts happen. Please don't be agitated if there are two competing pull requests in the same project, implementing the same feature, and yours is not the one "winning." It is not about winning; it is about understanding the things and trying to do the best.
 
 ### On project's authorship
 
-* For already existing projects, the work continues in their GitHub repos, you are listed in "Authors" section after the very first non-trivial PR, and listed in it as close to top as your contribution allows (including "main author/maintainer"); I'll add you as a repo collaborator after the several PRs and established rhythm of collaboration, and never drop from collaborators after this (unless some serious misbehavior).
+* For already existing projects, the work continues in their GitHub repos, you are listed in "Authors" section after the very first non-trivial PR, and listed in it as close to top as your contribution allows (including "main author/maintainer").
+* I'll add you as a repo collaborator after the several PRs and an established rhythm of collaboration, and never drop from collaborators after this (unless some serious misbehavior).
 * For future project, I require them to be done in [molybdenum-99](https://github.com/molybdenum-99) GitHub organization; you'll be project's collaborator and listed as its primary author from the very beginning, I give credit as "initial idea and mentorship" (or whatever it would be in future);
-  * The exceptions are projects [labelled "site"](https://github.com/zverok/lmsa/issues?q=is%3Aopen+is%3Aissue+label%3Asite), they should go to separate GitHub orgs to have separate GitHub Pages sites;
+  * The exceptions are projects [labeled "site"](https://github.com/zverok/lmsa/issues?q=is%3Aopen+is%3Aissue+label%3Asite), they should go to separate GitHub orgs to have separate GitHub Pages sites;
 * My initial "idea ownership" and authority for projects evolution's "big picture" is preserved **forever** (but nobody can stop you from forking project and make a turn in its development on your own if our visions will seriously diverge).
 
 ### Notice on conflict of interests
